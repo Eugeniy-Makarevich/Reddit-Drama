@@ -1,2 +1,2 @@
-# Reddit-Drama
-[Not-quite-study][In progress] Parsing /r/SubredditDrama
+# Reddit-drama
+[Not-quite-study] [In-Progress] Parsing data from r/SubredditDrama
