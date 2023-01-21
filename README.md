@@ -1,2 +1,7 @@
 # Reddit-drama
-[Not-quite-study] [In-Progress] Parsing data from r/SubredditDrama
+[Not-quite-study] Parsing data from r/SubredditDrama  
+List of content:
+ main.py - fetching data from reddit and append it to reddit_drama.csv  
+ reddit_drama.csv - 'database' file  
+ reddit_drama.xlsx - dashboard
+ 
