@@ -6,5 +6,5 @@
 + reddit_drama.csv - 'database' file  
 + reddit_drama.xlsx - dashboard file  
   
-####[Not-quite-study][Python][Excel]
+#### [Not-quite-study][Python][Excel]
  
