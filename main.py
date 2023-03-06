@@ -23,7 +23,7 @@ set_modified = last_modified
 reddit = praw.Reddit("BOT")
 subreddit = reddit.subreddit("subredditdrama")
 
-# function returns generator with info about submissions in subreddit-new. 
+# function returns generator with info about submissions in subreddit-hot. 
 def scrape_hot(n_last_submissions):
     for submission in subreddit.new(limit = n_last_submissions):
         if submission.created > last_modified:
